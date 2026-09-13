@@ -1,0 +1,11 @@
+{
+  "titulo": "Amor que Muerde, Dolor que Sana",
+  "categoria": "Romance",
+  "sinopsis": "Una joven descubre que su nuevo vecino esconde un secreto sobrenatural que pondrá a prueba su corazón.",
+  "vistas": "1.2M",
+  "etiqueta": "Doblado",
+  "episodios": {
+    "1": { "titulo": "El encuentro", "duracion": "2:15", "isVip": false },
+    "2": { "titulo": "La sombra en la ventana", "duracion": "1:58", "isVip": false }
+  }
+}
